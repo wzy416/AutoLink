@@ -1,3 +1,3 @@
-# TASL: A Tool-Using Agent for Scalable Schema Linking in Large-Scale Industrial Text-to-SQL
+# AutoLink: Autonomous Schema Exploration and Expansion for Scalable Schema Linking in Text-to-SQL at Scale
 
 Our codes will be coming soon.
